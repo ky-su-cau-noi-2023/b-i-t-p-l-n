@@ -222,9 +222,9 @@ dd {
   border-radius: 16px;
 }
 
-/*TABLET*/
+/*LAPTOP*/
 
-@media (min-width: 768px) {
+@media (min-width: 1141px) {
   .container {
     width: 1170px;
     margin: 0 auto;
