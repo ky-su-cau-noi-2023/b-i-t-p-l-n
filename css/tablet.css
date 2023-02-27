@@ -1,4 +1,4 @@
-@media (min-width: 650px) and (max-width: 979px) {
+@media (min-width: 769px) and (max-width: 1140px) {
   .container {
     width: 768px;
     margin: 0 auto;
@@ -41,8 +41,9 @@
     display: flex;
     flex-basis: 150px;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     gap: 20px;
+    margin-left:60px;
   }
 
   /* PERSOL INFORMATION- JOB TARGET*/
